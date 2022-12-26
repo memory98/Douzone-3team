@@ -17,7 +17,6 @@ class Solution {
 			}
 		return answer;
 	}
-
 }
 
 public class Day221226_01 {
