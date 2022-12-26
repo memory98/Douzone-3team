@@ -2,7 +2,7 @@ package jes;
 
 class Solution {
 	public Solution() {
-		 
+		
 	} 
 
 	public int solution(String t, String p) {
@@ -21,7 +21,6 @@ class Solution {
 }
 
 public class Day221226_01 {
-
 	public static void main(String[] args) {
 		Solution solution = new Solution();
 
