@@ -21,7 +21,7 @@ class Solution {
 
 }
 
-public class Day221226 {
+public class Day221226_01 {
 
 	public static void main(String[] args) {
 		Solution solution = new Solution();
