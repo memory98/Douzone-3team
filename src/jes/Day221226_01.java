@@ -2,8 +2,8 @@ package jes;
 
 class Solution {
 	public Solution() {
-		
-	}
+		 
+	} 
 
 	public int solution(String t, String p) {
 		int answer=0;
