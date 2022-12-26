@@ -1,12 +1,5 @@
 package jes;
 
-//class Solution {
-//    public long solution(int k, int d) {
-//        long answer = 0;
-//        return answer;
-//    }
-//}
-
 public class Day221226_02 {
 	public static void main(String[] args) {		
 //		Solution solution = new Solution();
