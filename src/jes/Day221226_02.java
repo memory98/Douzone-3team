@@ -24,7 +24,6 @@ public class Day221226_02 {
 		}
 		return answer;
 	}
-
 	public static long solution1(int k, int d) {
 		long answer = 0;
 		for (int i = 0; i <= d; i += k) {
